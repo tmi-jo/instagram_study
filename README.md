@@ -1,3 +1,1 @@
 # instagram_study
-
-# test
